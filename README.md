@@ -1,8 +1,8 @@
 # ZTAI-Block
 
-![ZTAI-Block Logo](assets/Ztai_Block-removebg-preview.png)
+(assets/Ztai_Block-removebg-preview.png)
 
-**Tagline:** Where AI judges, and Blockchain Remembers.
+ Where AI judges, and Blockchain Remembers.
 
 ---
 
