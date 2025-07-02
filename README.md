@@ -1,6 +1,6 @@
 # ZTAI-Block
 
-(assets/Ztai_Block-removebg-preview.png)
+![ZTAI-Block Logo](assets/Ztai_Block-removebg-preview.png)
 
  Where AI judges, and Blockchain Remembers.
 
